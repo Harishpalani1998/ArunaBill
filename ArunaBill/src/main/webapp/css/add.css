@@ -1,6 +1,10 @@
 table{
 margin-left:15em;
+border:solid 1px;
 }
 td{
 	padding-left:2em;
+}
+h1{
+	margin-left: 19em;
 }
